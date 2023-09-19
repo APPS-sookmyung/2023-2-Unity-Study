@@ -2,8 +2,6 @@
 
 ### Sookmyung APPS
 
-# 2023-2-Unity-Study
-
 APPS 2023-2 유니티 스터디 저장소입니다
 
 ## 스터디원
